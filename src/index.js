@@ -1,5 +1,5 @@
-import 'pixi.js';
-import 'p2';
+import './boot';
+
 import { Game, AUTO } from 'phaser';
 import { HEIGHT, WIDTH } from './constants';
 import sampleStage from './stages/sample';
